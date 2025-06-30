@@ -2,9 +2,7 @@
 # PytorchLearning
 https://docs.pytorch.org/tutorials/
 基于pytorch官网教程，每天花点时间学习pytorch
-## Learn the Basics
-https://docs.pytorch.org/tutorials/beginner/basics/intro.html
-
+## [Learn the Basics](https://docs.pytorch.org/tutorials/beginner/basics/intro.html)
 ### [1.张量的创建和操作](./Learn%20the%20Basics/1_Tensors.ipynb)
 ### [2.数据集和数据加载器](./Learn%20the%20Basics/2_Dataset&DataLoaders.ipynb)
 - 进阶阅读：[torch.utils.data API](https://docs.pytorch.org/docs/stable/data.html)
