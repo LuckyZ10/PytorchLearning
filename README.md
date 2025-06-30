@@ -9,6 +9,6 @@
 - 进阶阅读：[torchvision.transforms API](https://docs.pytorch.org/vision/stable/transforms.html)
 ### [4.构建模型](./Learn%20the%20Basics/1_Tensors.ipynb)    
 - 进阶阅读：[torch.nn API](https://pytorch.org/docs/stable/nn.html)
-### 5_TrainingModels.ipynb 训练模型    
+### [5.自动微分](./Learn%20the%20Basics/5_AutomaticDifferentiation.ipynb)   
 ### 6_SavingModels.ipynb 保存模型
 ### 7_UsingModels.ipynb 使用模型
